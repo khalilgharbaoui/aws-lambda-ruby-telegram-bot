@@ -60,6 +60,6 @@ node_modules
 admin.env
 .env
 _meta
-.serverless
+/.serverless
 .serverless/cloudformation-template-update-stack.json
 .serverless/serverless-state.json
