@@ -92,7 +92,7 @@
           "S3Bucket": {
             "Ref": "ServerlessDeploymentBucket"
           },
-          "S3Key": "serverless/aws-ruby-telegram-bot/dev/1547363372859-2019-01-13T07:09:32.859Z/aws-ruby-telegram-bot.zip"
+          "S3Key": "serverless/aws-ruby-telegram-bot/dev/1548606107192-2019-01-27T16:21:47.192Z/aws-ruby-telegram-bot.zip"
         },
         "FunctionName": "aws-ruby-telegram-bot-dev-hello",
         "Handler": "handler.hello",
@@ -190,7 +190,7 @@
         "MethodResponses": []
       }
     },
-    "ApiGatewayDeployment1547363372878": {
+    "ApiGatewayDeployment1548606107201": {
       "Type": "AWS::ApiGateway::Deployment",
       "Properties": {
         "RestApiId": {
